@@ -1,3 +1,25 @@
+/** Grace's Advice **/
+.grace-advice{
+    font-family:  'Roboto', sans-serif;
+    color: darkslategray;
+}
+
+/**Rachel's Styles**/
+.rachelmiller-advice {
+font-family: 'Open Sans', serif;
+color: blue;
+}
+.rachelmiller-advice h1 {
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+}
+.rachelmiller-advice h4{
+	font-size: 24px;
+}
+.rachelmiller-advice p{
+	font-size: 18px;
+}
 /*--- Lesley's Styles ---*/
 .lesleyhogg-advice {
 	font-family: 'Open Sans', sans-serif;
@@ -318,6 +340,30 @@ padding: 80px 0;
   font-size: 24px;
   font-weight: 700;
 }
+
+/***** Khristian's Styles *****/
+.khristian-advice {
+  padding: 0 50 50 0;
+}
+.khristian-advice p {
+  font-family: 'Raleway';
+  color: #7d53de;
+  text-align: justify;
+}
+
+.khristian-advice h1 {
+  font-family: 'Shrikhand';
+  color: #bffff7;
+  text-align: center;
+}
+
+.khristian-advice h4 {
+  font-family: 'Raleway';
+  color: #e24451;
+  text-align: center;
+}
+
+/***** END Khristian's Styles *****/
 
 /***** Abbi's Styles *****/
 .abbi-advice  {
@@ -2580,6 +2626,7 @@ body.elizak-advice {
   padding: 0px 80px 0px 80px;
 }
 /**End Jessie C **/
+
 
 /**Evelin advice styling**/
 .evelin-advice {
@@ -8651,3 +8698,93 @@ font-size: 20px;
 .tsering-advice h1{
   font-family: 'comic-sans', serif;
 }
+
+/*** lynettelim's Styles ***/
+.lynettelim-advice header {
+    color: #39120A;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice h1 {
+    color: #900C3F;
+    background-color: #EABABO;
+    font-size: 24px;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice h4 {
+    color: #900C3F;
+    background-color: white;
+    font-size: 18;
+    font-family: 'Century Gothic';
+}
+.lynettelim-advice p {
+    color: #900C3F;
+    font-size: 14px;
+    font-family: 'Century Gothic';
+    background-color: #EABABO;
+}
+.lynettelim-advice footer p {
+    color: white;
+    font-weight: bold;
+}
+
+/*** End lynettellim's Styles ***/
+
+
+/***** Vicki Greer's Advice 9/2017 ****/
+.vlg-advice {
+	background-color: #200353;
+	color: white;
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 25px auto;
+	max-width: 800px;
+}
+
+.vlg-advice a, .vlg-advice p, .vlg-advice h1, .vlg-advice h4 {
+	margin: 25px auto;
+	text-align: center;
+}
+
+.vlg-advice a {
+	color: #f1da73;
+}	
+	
+.vlg-advice h1 {
+	font-family: Roboto, sans-serif;
+	letter-spacing: -0.00125em;
+	line-height: 1.25;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-transform: uppercase;
+}
+
+.vlg-advice h4 {
+	color: #fffa2d;
+	font-family: 'lobster two', cursive;
+	font-size: 24px;
+}
+
+.vlg-advice p {
+	color: white;
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+}
+
+.vlg-advice .quotation {
+	border: 5px ridge #bbbbff;
+	color: #bbbbff;
+	font-size: 20px;
+	margin: 50px auto;
+	min-width: 300px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.vlg-advice .copyright {
+	color: #837cd7;
+	font-size: 14px;
+	margin-left: 0;
+	text-align: left;
+}
+/* End Vicki Greer's styles 2017 */
